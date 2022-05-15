@@ -1,0 +1,10 @@
+.lable-upload {
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #ddd;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}

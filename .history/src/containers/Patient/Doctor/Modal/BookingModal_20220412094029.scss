@@ -1,0 +1,60 @@
+.booking-modal-container {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+
+    .booking-modal-content {
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+
+        .booking-modal-header {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            .left {
+                font-size: 14px;
+                color: #333;
+
+            }
+            .right {
+                float: right;
+                cursor: pointer;
+            }
+        }
+        .booking-modal-body {
+            padding: 20px 40px;
+
+            .user-input {
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 2px;
+                display: flex;
+                align-items: center;
+
+                i {
+                    padding-right: 10px;
+                    color: #666;
+                }
+
+                .text-form {
+                    width: 100%;
+                    border: none;
+                    outline: none;
+
+                    &:focus {
+                        i {
+                            color: #45c3d2;
+                        }
+                    }
+                }
+
+                
+
+
+            }
+        }
+        .booking-modal-footer {
+            display: flex;
+            // justify-content: flex-end;
+        }
+    }
+}

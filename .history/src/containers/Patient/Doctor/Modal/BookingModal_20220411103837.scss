@@ -1,0 +1,21 @@
+.booking-modal-container {
+    .booking-modal-content {
+        height: 100px;
+        .booking-modal-header {
+            height: 30px;
+            border: 1px solid red;
+
+            .right {
+                float: right;
+            }
+        }
+        .booking-modal-body {
+            height: 30px;
+            border: 1px solid green;
+        }
+        .booking-modal-footer {
+            height: 30px;
+            border: 1px solid yellow;
+        }
+    }
+}

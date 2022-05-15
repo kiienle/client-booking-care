@@ -1,0 +1,31 @@
+.booking-modal-container {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+
+    .booking-modal-content {
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+
+        .booking-modal-header {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            .left {
+                font-size: 14px;
+                color: #333;
+
+            }
+            .right {
+                float: right;
+                cursor: pointer;
+            }
+        }
+        .booking-modal-body {
+            
+        }
+        .booking-modal-footer {
+            display: flex;
+            // justify-content: flex-end;
+        }
+    }
+}

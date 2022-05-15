@@ -1,0 +1,22 @@
+.section-specialty {
+    height: 630px;
+    background-color: #efeefe;
+    border: 1px solid red;
+
+    .img-customize {
+        height: 300px;
+        border: 1px solid yellow;
+    }
+}
+
+//reset slick slider css
+.slick-prev{
+    background-color: red !important;
+    position: absolute !important;
+    // left: 0 !important;
+    // top: 50% !important;
+}
+.slick-next{
+    background-color: blue !important;
+    right: 0 !important;
+}

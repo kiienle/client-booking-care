@@ -1,0 +1,40 @@
+.section-specialty {
+    height: 630px;
+    background-color: #efeefe;
+    border: 1px solid red;
+
+    .img-customize {
+        height: 300px;
+        border: 1px solid yellow;
+    }
+}
+
+//reset slick slider css
+.slick-prev{
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: red !important;
+    position: absolute !important;
+    top: 50%;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    transform: translate(0, -50%);
+
+    &::before {
+        content: /e258;
+        font-style: normal;
+        font-weight: 400;
+        background: #fff;
+        border: 2px solid #d7d7d7;
+        padding: 10px;
+        text-align: center;
+        color: #959595 !important;
+    }
+}
+.slick-next{
+    background-color: blue !important;
+    right: 0 !important;
+}

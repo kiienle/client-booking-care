@@ -1,0 +1,55 @@
+.section-specialty {
+    width: 100%;
+    height: 630px;
+    background-color: #efeefe;
+    border: 1px solid red;
+
+    .specialty-body {
+        height: 326px;
+        max-width: 970px;
+        padding: 20px 15px 30px;
+        margin: 0 auto;
+
+        .specialty-header {
+            display: flex;
+            justify-content: space-between;
+            
+            .specialty-title {
+                font-size: 24px;
+                font-weight: bold;
+                padding: 15px 0 5px;
+                margin-bottom: 25px;
+            }
+    
+            .specialty-more {
+                display: inline-block;
+                height: 37px;
+                padding: 10px 15px;
+                text-transform: uppercase;
+                font-size: 11px;
+                text-decoration: none;
+                color: #282e41;
+                background-color: #ebebeb;
+            }
+        }
+
+        .specialty-content {
+            height: 300px;
+            width: 228px !important;
+            margin: 5px !important;
+
+            .specialty-img {
+                width: 228px;
+                height: 128px;
+            }
+
+            .specialty-name {
+                font-size: 13px;
+                padding: 5px 0;
+                margin: 0;
+                line-height: 19px;
+            }
+        }
+    }
+}
+

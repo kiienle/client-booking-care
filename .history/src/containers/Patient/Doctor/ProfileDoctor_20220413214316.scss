@@ -1,0 +1,62 @@
+.doctor-profile-container {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+
+    .content-left {
+        width: 100px;
+        height: 100px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        border-radius: 50%;
+    }
+
+    .content-right {
+        margin-left: 20px;
+        width: 100%;
+        .doctor-title {
+            padding-bottom: 3px;
+            margin-bottom: 3px;
+            font-size: 18px;
+            font-weight: 600;
+            color: #337ab7;
+        }
+
+        .clinic-infor {
+            border-left: 1px solid #eee;
+            padding-left: 20px;
+
+            .name-clinic {
+                font-size: 13px;
+                font-weight: 600;
+            }
+        
+            .detail-address {
+                font-size: 13px;
+                padding: 3px 0;
+            }
+    
+            .price {
+                padding-top: 3px;
+                border-top: 1px solid #eee;
+                font-size: 13px;
+    
+                .price-infor {
+                    text-transform: uppercase;
+                    font-weight: 600;
+
+                    span {
+                        margin-left: 5px;
+                    }
+                }
+            }
+
+            .doctor-schedule-time {
+                border-top: 1px solid #eee;
+            }
+        }
+    }
+
+    
+}

@@ -1,0 +1,66 @@
+{
+    "homeheader": {
+        "speciality": "Chuyên khoa",
+        "searchdoctor": "Tìm bác sĩ theo chuyên khoa",
+        "health-facility": "Cơ sở y tế",
+        "select-room": "Chọn bệnh viện phòng khám",
+        "doctor": "Bác sĩ",
+        "select-doctor": "Chọn bác sĩ giỏi",
+        "fee": "Gói khám",
+        "check-health": "Khám sức khỏe tổng quát",
+        "support": "Hỗ trợ",
+        "welcome": "Xin chào, "
+    },
+    "banner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-doctor": "Quản lý bác sĩ",
+            "manage-admin": "Quản lý admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "manage-clinic": "Quản lý phòng khám",
+            "manage-specialty": "Quản lý chuyên khoa",
+            "manage-handbook": "Quản lý cẩm nang",
+            "clinic": "Phòng khám",
+            "specialty": "Chuyên khoa",
+            "handbook": "Cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lý kế hoạch khám bệnh"
+        }
+    },
+    "manage-user": {
+        "add": "Thêm mới người dùng",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "first-name": "Tên",
+        "last-name": "Họ",
+        "phone": "Số điện thoại",
+        "address": "Địa chỉ",
+        "gender": "Giới tính",
+        "male": "Name",
+        "female": "Nữ",
+        "position": "Chức vụ",
+        "role": "Vai trò",
+        "doctor": "Bác sĩ",
+        "admin": "Admin",
+        "patient": "Bệnh nhân",
+        "image": "Ảnh đại diện",
+        "save": "Lưu user",
+        "edit": "Cập nhật user"
+    },
+    "homepage": {
+        "outstanding-doctor": "Bác sĩ nổi bật tuần qua",
+        "more-info": "Xem thêm"
+    },
+    "manage-schedule": {
+        "title": "Quản lý kế hoạch khám bệnh của bác sỹ",
+        "chooes-doctor": "Chọn bác sỹ",
+        "choose-date": "Chọn ngày",
+        "save": "Lưu thông tin"
+    }
+}

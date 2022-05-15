@@ -1,0 +1,53 @@
+.section-specialty {
+    width: 100%;
+    height: 630px;
+    background-color: #efeefe;
+    border: 1px solid red;
+
+    .specialty-content {
+        height: 300px;
+        max-width: 970px;
+        padding: 0 15px;
+        margin: 0 auto;
+        .img-customize {
+            height: 300px;
+            border: 1px solid yellow;
+        }
+    }
+}
+
+//reset slick slider css
+.slick-arrow:before {
+    font-style: normal;
+    font-weight: 400;
+    background: #fff;
+    border: 2px solid #d7d7d7;
+    padding: 10px;
+    text-align: center;
+    color: #959595 !important;
+}
+
+.slick-prev{
+    height: 48px;
+    width: 44px;
+    position: absolute !important;
+    text-align: center;
+    left: -10px !important;
+    top: 50% !important;
+    z-index: 999;
+
+    &::after {
+        // z-index: 9999;
+        content: "\e257" !important;
+        color: white !important;
+    }
+}
+.slick-next{
+    right: 0 !important;height: 48px;
+    width: 44px;
+    position: absolute !important;
+    text-align: center;
+    right: -10px !important;
+    top: 50% !important;
+    z-index: 999;
+}

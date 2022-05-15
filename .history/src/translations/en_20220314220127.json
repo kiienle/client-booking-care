@@ -1,0 +1,35 @@
+{
+    "homeheader": {
+        "speciality": "Specialist",
+        "searchdoctor": "Find a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Examination package",
+        "check-health": "General health check",
+        "support": "Support",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL BACKGROUND",
+        "title2": "COMPREHENSIVE HEALTH CARE"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "Menage user using redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin": {
+            "manage-user": "Manage user"
+        }
+    }
+}

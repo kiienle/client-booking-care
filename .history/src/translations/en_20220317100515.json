@@ -1,0 +1,57 @@
+{
+    "homeheader": {
+        "speciality": "Specialist",
+        "searchdoctor": "Find a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Examination package",
+        "check-health": "General health check",
+        "support": "Support",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL BACKGROUND",
+        "title2": "COMPREHENSIVE HEALTH CARE"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users System",
+            "manage-doctor": "Manage Doctors",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "manage-clinic": "Manage Clinics",
+            "manage-specialty": "Manage Specialties",
+            "manage-handbook": "Manage Handbooks",
+            "clinic": "Clinics",
+            "specialty": "Specialties",
+            "handbook": "Handbooks"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "position": "Position",
+        "role": "Role",
+        "doctor": "Doctor",
+        "admin": "Admin",
+        "patient": "Patient",
+        "image": "Avatar",
+        "save": "Save user",
+        "edit": "Upadate user"
+    },
+    "homepage": {
+        "outstanding-doctor": "Outstanding Doctor of the Week",
+        "more-info": "More info"
+    }
+}
